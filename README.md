@@ -2,5 +2,4 @@
 Discord Token SPY | CodeDict
 
 
-https://user-images.githubusercontent.com/106864876/179374118-cb5eeb13-dfe6-4e8f-ac57-07d78c18539d.mp4
-
+![spy](https://user-images.githubusercontent.com/106864876/187287276-ad7a1049-175c-40c5-a31f-df52717dc0f6.jpg)
