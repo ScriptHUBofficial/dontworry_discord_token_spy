@@ -38,8 +38,7 @@ heartbeat_intervals = event['d']['heartbeat_interval'] / 10000
 print("heartbeat_intervals = ", heartbeat_intervals)
 threading._start_new_thread(heartbeat, (heartbeat_intervals, ws))
 
-token = "TOKEN"
-
+token = ""
 payload = {'op': 2, "intents": 513, 'd':{"token": token, "properties": {"$os": "windows", "$browser": "chrome", "$device": "pc"}}}
 send_json_request(ws, payload)
 
